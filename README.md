@@ -11,7 +11,7 @@ This repository contains the implementations of the contracts for the blockchain
 
 - The smart contract is implemented in Solidity programming language. Please visit [Voting Smart Contract](https://github.com/liviambmiranda/voting_system_FHE/blob/main/Contract/Voting_Smart_Contract.sol) to check the code.
 
-- The performance evaluation of the system is based smart contract's functions evaluation using Python3 programming language and the execution of the shell scripts for vote encryption. Please visit [Evaluation](https://github.com/liviambmiranda/voting_system_FHE/tree/main/Evaluation) to check the code.
+- The performance analysis of the system is based on the smart contract's functions evaluation using Python3 programming language and the execution of the shell scripts for vote encryption evaluation. Please visit [Evaluation](https://github.com/liviambmiranda/voting_system_FHE/tree/main/Evaluation) to check the code.
 
 
  
