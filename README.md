@@ -9,9 +9,9 @@ This repository contains the implementations of the contracts for the blockchain
 
 - The proof-of concept implementation of the system is based on the local and non-local test networks provided by Zama in [fhevm](https://github.com/zama-ai/fhevm).
 
-- The smart contract is implemented in Solidity programming language. Please visit [Voting Smart Contract](https://github.com/liviambmiranda/voting_system_FHE/blob/main/Contract/Voting_Smart_Contract.sol).
+- The smart contract is implemented in Solidity programming language. Please visit [Voting Smart Contract](https://github.com/liviambmiranda/voting_system_FHE/blob/main/Contract/Voting_Smart_Contract.sol) to check the code.
 
-- 
+- The performance evaluation of the system is based smart contract's functions evaluation using Python3 programming language and the execution of the shell scripts for vote encryption. Please visit [Evaluation](https://github.com/liviambmiranda/voting_system_FHE/tree/main/Evaluation) to check the code.
 
 
  
